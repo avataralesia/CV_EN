@@ -4,7 +4,6 @@
   font-family: sans-serif;
 }
 .wrapper {
-  margin: 0 auto;
   min-height: calc(100vh - 70px);
   background-color: #f7f7f7;
 }
@@ -140,6 +139,7 @@ h4 {
 @media (max-width: 667px) {
   .personal {
     flex-direction: column;
+    align-items: center;
   }
   .main_photo {
     max-width: 100%;
