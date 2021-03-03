@@ -4,7 +4,7 @@
   font-family: sans-serif;
 }
 .wrapper {
-  min-height: calc(100vh - 70px);
+  min-height:100%;
   background-color: #f7f7f7;
 }
 .container {
@@ -106,7 +106,7 @@ h4 {
 }
 .footer {
   background-color: #434445;
-  height: 70px;
+  height: 100px;
   text-align: center;
   color: #222121;
   font-size: 20px;
